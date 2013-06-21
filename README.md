@@ -1,5 +1,5 @@
-Skelton of Jubatus Client Application in Python
-===============================================
+Skeleton of Jubatus Client Application in Python
+=================================================
 
 Requirements
 ------------
