@@ -4,7 +4,7 @@ Skeleton of Jubatus Client Application in Python
 Requirements
 ------------
 
-* Jubatus server 0.4.2+
+* Jubatus server 0.5.0+
 * jubatus package ( install via `pip install jubatus` )
 
 Usage
